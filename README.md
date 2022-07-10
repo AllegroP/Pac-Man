@@ -20,6 +20,6 @@
 - WPF样式与模板 https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/controls/styles-templates-overview
 - WPF代码数据绑定 https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/data/how-to-create-a-binding-in-code
 - WPF路由事件概述 https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/events/routed-events-overview
-- WPF线程处理模型 https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced
+- WPF线程处理模型 https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced  
 要更深入了解WPF，你可以回到这些链接的上一级来阅读你感兴趣的内容。我的建议是，关注代码执行的底层逻辑，而不是死记硬背控件的使用规则。
 Enjoy your coding!
